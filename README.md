@@ -1,2 +1,2 @@
-# Basic-JavaScript-
+# Basic-JavaScript
 JavaScript tutorials
