@@ -4,5 +4,7 @@ alert('hurray!!!!!!!!!!!!!');
 
 const memory = null
 const memory2 = undefined;
+let memory3 ;
 
-console.table(typeof[memory],[memory2]);
+console.log(typeof[memory],[memory2],[memory3]);
+console.log(memory3,"new log advanced");
